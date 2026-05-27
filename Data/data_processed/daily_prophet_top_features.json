@@ -1,0 +1,12 @@
+[
+  "sma_50",
+  "sma_200",
+  "spx_close",
+  "hr_hash_rate_ma30",
+  "m2_ma30",
+  "m2_lag30",
+  "fg_fng_value_ma30",
+  "gt_bitcoin_ma30",
+  "fg_fng_value",
+  "macd_signal_9"
+]

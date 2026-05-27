@@ -1,0 +1,7 @@
+{
+  "SEQ": 20,
+  "TARGET_MODE": "return",
+  "keras_version": "2.16.2",
+  "n_features": 5,
+  "note": "Artefak untuk LSTM return\u2192price (one-step)."
+}

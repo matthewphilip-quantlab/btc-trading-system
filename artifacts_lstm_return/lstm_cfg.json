@@ -1,0 +1,13 @@
+{
+  "SEQ": 20,
+  "TARGET_MODE": "return",
+  "units1": 64,
+  "units2": 32,
+  "dropout": 0.2,
+  "l2": 0.0,
+  "lr": 0.001,
+  "n_features": 5,
+  "test_R2": 0.9688001643662739,
+  "test_RMSE": 2195.188918645952,
+  "test_sMAPE": 0.016206849143053
+}

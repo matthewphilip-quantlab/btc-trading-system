@@ -1,0 +1,16 @@
+[
+  "btc_open",
+  "btc_high",
+  "btc_low",
+  "eth_open",
+  "eth_high",
+  "eth_low",
+  "eth_volume",
+  "btc_volume",
+  "m2_chg1d",
+  "eth_close",
+  "btc_ret1d",
+  "eth_ret1d",
+  "spx_ret1d",
+  "m2"
+]

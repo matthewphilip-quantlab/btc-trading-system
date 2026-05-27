@@ -1,0 +1,9 @@
+[
+  "btc_close",
+  "btc_volume_log1p",
+  "spx_close",
+  "hr_hash_rate",
+  "fg_fng_value",
+  "gt_bitcoin",
+  "btc_eth_ratio"
+]

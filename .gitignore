@@ -1,0 +1,27 @@
+# DATA - too large
+Data/
+Data.zip
+data_processed/
+merged_daily_master_clean.csv
+
+# DUPLICATE ARTIFACTS
+artifacts_lstm_return/
+artifacts_xgb_return/
+artifacts_xgb_pricelevel/
+
+# UNNECESSARY
+Untitled.ipynb
+Untitled1.ipynb
+*.docx
+*.zip
+
+# PYTHON
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JUPYTER
+.ipynb_checkpoints/
