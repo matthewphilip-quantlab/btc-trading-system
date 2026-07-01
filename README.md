@@ -86,7 +86,7 @@ LSTM (7-day forecast)  +  SMA 50/200 (trend)  =  Signal
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/btc-trading-system.git
+git clone https://github.com/matthewphilip-quantlab/btc-trading-system.git
 cd btc-trading-system
 pip install -r requirements.txt
 ```
@@ -208,3 +208,12 @@ btc-trading-system/
 ⭐ Star this repo if you found it useful!
 
 </div>
+---
+
+## 👤 Author
+
+**Philip Matthew**
+
+- GitHub: [@matthewphilip-quantlab](https://github.com/matthewphilip-quantlab)
+- LinkedIn: [Philip Matthew](https://www.linkedin.com/in/philip-matthew-514703341/)
+- Email: matthewphilip788@gmail.com
